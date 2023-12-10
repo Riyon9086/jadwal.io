@@ -14,7 +14,7 @@ daySchedules[j].classList.remove('hidden');
   });
 }
 document.querySelector(".back-button").addEventListener("click", function() {
-  window.location.href = "index2.html";
+  window.location.href = "https://s.id/Beranda-9f";
 });
 const backButton = document.querySelector('.back-button');
 
@@ -27,5 +27,5 @@ backButton.addEventListener('mouseout', function() {
 });
 backButton.addEventListener('click', function() {
   this.style.transform = 'scale(0.9)';
-  window.location.href = 'index2.html';
+  window.location.href = 'https://s.id/Beranda-9f';
 });
